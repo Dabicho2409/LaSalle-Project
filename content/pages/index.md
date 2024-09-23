@@ -45,7 +45,7 @@ sections:
     actions:
       - type: Link
         label: Learn more
-        altText: ''
+        altText: ¿Te gustaria aprender mas?
         url: 'https://developer.mozilla.org/es/docs/Web/HTML'
         showIcon: false
         icon: arrowRight
