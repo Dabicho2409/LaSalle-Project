@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: David Lopez
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -42,11 +42,10 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: >+
+    text: >
       > HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup
       Language) es el componente más básico de la Web. Define el significado y
       la estructura del contenido web. Además de HTML, generalmente se utilizan
       otras tecnologías para describir la apariencia/presentación de una página
       web (CSS) o la funcionalidad/comportamiento (JavaScript).
-
 ---
