@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: David Lopez
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -32,6 +32,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
+        borderRadius: xx-small
       title:
         textAlign: center
       subtitle:
@@ -41,12 +42,19 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
-    text: >+
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ¿Te gustaría aprender más?
+        url: 'https://developer.mozilla.org/es/docs/Web/HTML'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    text: >
       > HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup
       Language) es el componente más básico de la Web. Define el significado y
       la estructura del contenido web. Además de HTML, generalmente se utilizan
       otras tecnologías para describir la apariencia/presentación de una página
       web (CSS) o la funcionalidad/comportamiento (JavaScript).
-
 ---
