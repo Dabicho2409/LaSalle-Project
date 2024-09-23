@@ -13,13 +13,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    title: ¿Qué es HTML?
+    subtitle: 'HTML: Lenguaje de etiquetas de hipertexto'
     styles:
       self:
         height: auto
@@ -38,48 +33,20 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
-        textAlign: left
+        textAlign: center
       text:
         textAlign: left
       actions:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - colors: colors-f
-    type: FeaturedProjectsSection
-    elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects: []
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: Projects
+    text: >+
+      > HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup
+      Language) es el componente más básico de la Web. Define el significado y
+      la estructura del contenido web. Además de HTML, generalmente se utilizan
+      otras tecnologías para describir la apariencia/presentación de una página
+      web (CSS) o la funcionalidad/comportamiento (JavaScript).
+
 ---
