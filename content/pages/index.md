@@ -42,7 +42,15 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'https://developer.mozilla.org/es/docs/Web/HTML'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     text: >
       > HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup
       Language) es el componente más básico de la Web. Define el significado y
