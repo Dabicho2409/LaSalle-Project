@@ -100,8 +100,6 @@ sections:
     variant: variant-b
     title: ''
     text: >+
-
-
       ```
 
       HTML utiliza "marcas" para etiquetar texto, imágenes y otro contenido para
