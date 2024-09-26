@@ -4,7 +4,7 @@ title: David Lopez
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/imagen_2024-09-26_105307503.png
+  url: /images/gallery-1.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
