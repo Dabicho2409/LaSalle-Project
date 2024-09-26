@@ -66,7 +66,7 @@ sections:
       caption: Caption of the image
       elementId: ''
   - type: MediaGallerySection
-    title: Gallery
+    title: HTML
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
