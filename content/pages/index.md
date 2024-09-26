@@ -97,4 +97,5 @@ sections:
         textAlign: left
 metaTitle: ¿Qué es HTML?
 metaDescription: 'HTML como una herramienta de programación '
+socialImage: /images/imagen_2024-09-26_105307503.png
 ---
