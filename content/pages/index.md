@@ -113,7 +113,7 @@ sections:
     elementId: ''
     styles:
       self:
-        height: auto
+        height: screen
         width: full
         padding:
           - pt-28
