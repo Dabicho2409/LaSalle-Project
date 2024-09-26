@@ -129,10 +129,10 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-2
-          - pb-2
-          - pl-2
-          - pr-2
+          - pt-3
+          - pb-3
+          - pl-3
+          - pr-3
         justifyContent: center
         borderWidth: 0
         margin:
