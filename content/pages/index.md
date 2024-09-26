@@ -172,42 +172,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: Etiquetas iniciales o de raíz
-    subtitle: ''
-    text: >+
-      > Doctype:
-
-      > <!DOCTYPE html> Indica al navegador que el documento está basado en el
-      estándar HTML5
-
-      >
-
-      > Html:
-
-      > <html> </html> Representa la raíz de un documento HTML. Todos los demás
-      elementos de la estructura HTML deben ser recogidos dentro de estas
-      etiquetas.
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
 metaTitle: ¿Qué es HTML?
 metaDescription: 'HTML como una herramienta de programación '
 socialImage: /images/imagen_2024-09-26_105307503.png
