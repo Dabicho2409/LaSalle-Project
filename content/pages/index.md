@@ -123,6 +123,11 @@ sections:
           - pr-20
         justifyContent: flex-start
         borderWidth: 0
+        margin:
+          - mt-5
+          - ml-5
+          - mb-5
+          - mr-5
       title:
         textAlign: left
       subtitle:
