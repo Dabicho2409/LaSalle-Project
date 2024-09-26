@@ -128,13 +128,16 @@ sections:
     variant: variant-b
     title: 'HTML: Lenguaje de etiquetas de hipertexto'
     subtitle: Hipertexto
-    text: >+
-      <div style="text-align: left">Hace referencia a los enlaces que conectan
-      páginas web entre sí, ya sea dentro de un único sitio web o entre sitios
-      web. Los enlaces son un aspecto fundamental de la Web. Al subir contenido
-      a Internet y vincularlo a las páginas creadas por otras personas, te
-      conviertes en un participante activo en la «World Wide Web» (Red
-      Informática Mundial).</div>
+    text: |+
+      <div style="text-align: left">*   Etiquetas iniciales o de raíz:
+
+          Doctype:
+          <!DOCTYPE html\> Indica al navegador que el documento está basado en el estándar HTML5
+
+          Html:
+          <html\> </html\> Representa la raíz de un documento HTML. Todos los demás elementos de la estructura HTML deben ser recogidos dentro de estas etiquetas.
+
+      </div>
 
     elementId: ''
     styles:
