@@ -147,50 +147,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: TextSection
-    colors: colors-f
-    variant: variant-b
-    title: ''
-    text: >
-      Un elemento HTML se distingue de otro texto en un documento mediante
-      "etiquetas", que consisten en el nombre del elemento rodeado por "<" y
-      ">". El nombre de un elemento dentro de una etiqueta no distingue entre
-      mayúsculas y minúsculas. Es decir, se puede escribir en mayúsculas,
-      minúsculas o una mezcla. Por ejemplo, la etiqueta <title> se puede
-      escribir como <Title>, <TITLE> o de cualquier otra forma.
-
-
-      Etiquetas iniciales o de raíz:
-
-
-      Doctype:
-
-      <!DOCTYPE html> Indica al navegador que el documento está basado en el
-      estándar HTML5
-
-
-      Html:
-
-      <html> </html> Representa la raíz de un documento HTML. Todos los demás
-      elementos de la estructura HTML deben ser recogidos dentro de estas
-      etiquetas.
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-3
-          - pb-3
-          - pl-3
-          - pr-3
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
@@ -236,6 +192,50 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+  - type: TextSection
+    colors: colors-f
+    variant: variant-b
+    title: ''
+    text: >
+      Un elemento HTML se distingue de otro texto en un documento mediante
+      "etiquetas", que consisten en el nombre del elemento rodeado por "<" y
+      ">". El nombre de un elemento dentro de una etiqueta no distingue entre
+      mayúsculas y minúsculas. Es decir, se puede escribir en mayúsculas,
+      minúsculas o una mezcla. Por ejemplo, la etiqueta <title> se puede
+      escribir como <Title>, <TITLE> o de cualquier otra forma.
+
+
+      Etiquetas iniciales o de raíz:
+
+
+      Doctype:
+
+      <!DOCTYPE html> Indica al navegador que el documento está basado en el
+      estándar HTML5
+
+
+      Html:
+
+      <html> </html> Representa la raíz de un documento HTML. Todos los demás
+      elementos de la estructura HTML deben ser recogidos dentro de estas
+      etiquetas.
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-3
+          - pb-3
+          - pl-3
+          - pr-3
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
 metaTitle: ¿Qué es HTML?
 metaDescription: 'HTML como una herramienta de programación '
 socialImage: /images/imagen_2024-09-26_105307503.png
