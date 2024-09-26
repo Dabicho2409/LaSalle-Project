@@ -100,7 +100,6 @@ sections:
     variant: variant-b
     title: ''
     text: >+
-      >
 
 
       ```
