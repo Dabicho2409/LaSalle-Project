@@ -178,13 +178,15 @@ sections:
     title: Etiquetas iniciales o de raíz
     subtitle: ''
     text: |+
-      *   Doctype:
-          <!DOCTYPE html\> Indica al navegador que el documento está basado en el estándar HTML5
+      *   ```
+          Doctype:
+          <!DOCTYPE html> Indica al navegador que el documento está basado en el estándar HTML5
+
+          Html:
+          <html> </html> Representa la raíz de un documento HTML. Todos los demás elementos de la estructura HTML deben ser recogidos dentro de estas etiquetas.
+          ```
 
 
-
-      *   Html:
-          <html\> </html\> Representa la raíz de un documento HTML. Todos los demás elementos de la estructura HTML deben ser recogidos dentro de estas etiquetas.
 
 
 
