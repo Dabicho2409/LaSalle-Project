@@ -179,10 +179,10 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
+          - pt-3
+          - pb-3
+          - pl-3
+          - pr-3
         justifyContent: flex-start
       title:
         textAlign: left
