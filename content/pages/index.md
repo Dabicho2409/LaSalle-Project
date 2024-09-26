@@ -177,13 +177,17 @@ sections:
     variant: variant-a
     title: Etiquetas iniciales o de raíz
     subtitle: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: |+
+      *   Doctype:
+          <!DOCTYPE html\> Indica al navegador que el documento está basado en el estándar HTML5
+
+
+
+      *   Html:
+          <html\> </html\> Representa la raíz de un documento HTML. Todos los demás elementos de la estructura HTML deben ser recogidos dentro de estas etiquetas.
+
+
+
     elementId: ''
     styles:
       self:
