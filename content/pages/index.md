@@ -101,16 +101,13 @@ sections:
     title: ''
     subtitle: ''
     text: >+
-      <div style="text-align: left">```
-
-      HTML utiliza "marcas" para etiquetar texto, imágenes y otro contenido para
-      mostrarlo en un navegador Web. Las  marcas HTML incluyen "elementos"
-      especiales como , <title>, <body>, <header>, <footer>, <article>,
-      <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>,
-      <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>,
-      <ul>, <ol>, <li> y muchos otros.</title>
-
-      ```</div>
+      <div style="text-align: left">HTML utiliza "marcas" para etiquetar texto,
+      imágenes y otro contenido para mostrarlo en un navegador Web. Las  marcas
+      HTML incluyen "elementos" especiales como , <title>, <body\>, <header\>,
+      <footer\>, <article\>, <section\>, <p\>, <div\>, <span\>, <img\>,
+      <aside\>, <audio\>, <canvas\>, <datalist\>, <details\>, <embed\>, <nav\>,
+      <output\>, <progress\>, <video\>, <ul\>, <ol\>, <li\> y muchos
+      otros.</title></div>
 
     elementId: ''
     styles:
