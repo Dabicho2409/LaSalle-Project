@@ -97,37 +97,6 @@ sections:
         textAlign: left
   - type: TextSection
     colors: colors-f
-    variant: variant-b
-    title: ''
-    subtitle: ''
-    text: >+
-      <div style="text-align: left">HTML utiliza "marcas" para etiquetar texto,
-      imágenes y otro contenido para mostrarlo en un navegador Web. Las  marcas
-      HTML incluyen "elementos" especiales como , <title>, <body\>, <header\>,
-      <footer\>, <article\>, <section\>, <p\>, <div\>, <span\>, <img\>,
-      <aside\>, <audio\>, <canvas\>, <datalist\>, <details\>, <embed\>, <nav\>,
-      <output\>, <progress\>, <video\>, <ul\>, <ol\>, <li\> y muchos
-      otros.</title></div>
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-10
-          - pb-10
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-  - type: TextSection
-    colors: colors-f
     variant: variant-a
     title: ''
     text: >
