@@ -96,4 +96,5 @@ sections:
       text:
         textAlign: left
 metaTitle: ¿Qué es HTML?
+metaDescription: 'HTML como una herramienta de programación '
 ---
