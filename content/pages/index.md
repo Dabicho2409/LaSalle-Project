@@ -99,7 +99,7 @@ sections:
     colors: colors-f
     variant: variant-b
     title: ''
-    subtitle: Hipertexto
+    subtitle: ''
     text: >+
       <div style="text-align: left">Hace referencia a los enlaces que conectan
       páginas web entre sí, ya sea dentro de un único sitio web o entre sitios
