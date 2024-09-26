@@ -61,7 +61,7 @@ sections:
       web (CSS) o la funcionalidad/comportamiento (JavaScript).
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/imagen_2024-09-26_102321372.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
