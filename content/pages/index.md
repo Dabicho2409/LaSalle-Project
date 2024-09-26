@@ -129,10 +129,10 @@ sections:
         height: auto
         width: narrow
         padding:
-          - pt-20
-          - pb-20
-          - pl-20
-          - pr-20
+          - pt-28
+          - pb-28
+          - pl-28
+          - pr-28
         justifyContent: flex-start
         borderWidth: 0
         margin:
