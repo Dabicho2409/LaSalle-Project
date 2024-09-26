@@ -99,7 +99,8 @@ sections:
     colors: colors-f
     variant: variant-a
     title: ''
-    text: >+
+    text: >-
+      '''
 
       HTML utiliza "marcas" para etiquetar texto, imágenes y otro contenido para
       mostrarlo en un navegador Web. Las  marcas HTML incluyen "elementos"
@@ -108,7 +109,7 @@ sections:
       <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>,
       <ul>, <ol>, <li> y muchos otros.
 
-
+      '''
     elementId: ''
     styles:
       self:
