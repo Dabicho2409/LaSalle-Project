@@ -123,37 +123,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: TextSection
-    colors: colors-f
-    variant: variant-b
-    title: ''
-    subtitle: ''
-    text: |+
-      <div style="text-align: left">*   Etiquetas iniciales o de raíz:
-
-          Doctype:
-          <!DOCTYPE html\> Indica al navegador que el documento está basado en el estándar HTML5
-
-          Html:
-          <html\> </html\> Representa la raíz de un documento HTML. Todos los demás elementos de la estructura HTML deben ser recogidos dentro de estas etiquetas.
-
-      </div>
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
 ---
