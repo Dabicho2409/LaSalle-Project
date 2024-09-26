@@ -127,7 +127,7 @@ sections:
     colors: colors-f
     variant: variant-b
     title: ''
-    subtitle: Hipertexto
+    subtitle: ''
     text: |+
       <div style="text-align: left">*   Etiquetas iniciales o de raíz:
 
