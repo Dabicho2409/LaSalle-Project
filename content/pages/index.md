@@ -137,7 +137,7 @@ sections:
         borderWidth: 0
         margin:
           - mt-5
-          - ml-5
+          - ml-1
           - mb-5
           - mr-5
         borderRadius: xx-small
