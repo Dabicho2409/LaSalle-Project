@@ -148,7 +148,7 @@ sections:
         textAlign: left
   - type: TextSection
     colors: colors-f
-    variant: variant-a
+    variant: variant-b
     title: ''
     text: >
       Un elemento HTML se distingue de otro texto en un documento mediante
