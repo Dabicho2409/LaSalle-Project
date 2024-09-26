@@ -4,7 +4,7 @@ title: David Lopez
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/contact.jpg
+  url: /images/gallery-2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
