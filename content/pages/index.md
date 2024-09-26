@@ -10,19 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: narrow
-        padding:
-          - pt-36
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
   - elementId: ''
     colors: colors-f
     backgroundSize: full
@@ -72,6 +59,19 @@ sections:
       la estructura del contenido web. Además de HTML, generalmente se utilizan
       otras tecnologías para describir la apariencia/presentación de una página
       web (CSS) o la funcionalidad/comportamiento (JavaScript).
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: narrow
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
   - type: TextSection
     colors: colors-d
     variant: variant-a
