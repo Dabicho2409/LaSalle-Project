@@ -85,7 +85,7 @@ sections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-4.jpg
+        url: /images/imagen_2024-09-26_111432796.png
         altText: Image four
         caption: Image four caption
         elementId: ''
