@@ -184,7 +184,7 @@ sections:
           - pb-3
           - pl-3
           - pr-3
-        justifyContent: flex-start
+        justifyContent: center
       title:
         textAlign: left
       subtitle:
