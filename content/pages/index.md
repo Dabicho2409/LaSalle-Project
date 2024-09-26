@@ -95,32 +95,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: ''
-    text: >
-      Un elemento HTML se distingue de otro texto en un documento mediante
-      "etiquetas", que consisten en el nombre del elemento rodeado por "<" y
-      ">". El nombre de un elemento dentro de una etiqueta no distingue entre
-      mayúsculas y minúsculas. Es decir, se puede escribir en mayúsculas,
-      minúsculas o una mezcla. Por ejemplo, la etiqueta <title> se puede
-      escribir como <Title>, <TITLE> o de cualquier otra forma.
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
 ---
