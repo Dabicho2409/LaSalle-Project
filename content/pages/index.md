@@ -148,13 +148,20 @@ sections:
     colors: colors-f
     variant: variant-a
     title: ''
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      ```
+
+      Un elemento HTML se distingue de otro texto en un documento mediante
+      "etiquetas", que consisten en el nombre del elemento rodeado por "<" y
+      ">". El nombre de un elemento dentro de una etiqueta no distingue entre
+      mayúsculas y minúsculas. Es decir, se puede escribir en mayúsculas,
+      minúsculas o una mezcla. Por ejemplo, la etiqueta <title> se puede
+      escribir como <Title>, <TITLE> o de cualquier otra forma.
+
+      ```
+
+
+
     elementId: ''
     styles:
       self:
