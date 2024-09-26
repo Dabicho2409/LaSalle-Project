@@ -65,38 +65,6 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: 'HTML: Lenguaje de etiquetas de hipertexto'
-    subtitle: Hipertexto
-    text: >+
-      <div style="text-align: left">Hace referencia a los enlaces que conectan
-      páginas web entre sí, ya sea dentro de un único sitio web o entre sitios
-      web. Los enlaces son un aspecto fundamental de la Web. Al subir contenido
-      a Internet y vincularlo a las páginas creadas por otras personas, te
-      conviertes en un participante activo en la «World Wide Web» (Red
-      Informática Mundial).</div>
-
-
-
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: MediaGallerySection
     title: Gallery
     subtitle: This is the subtitle
@@ -142,6 +110,38 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+  - type: TextSection
+    colors: colors-f
+    variant: variant-a
+    title: 'HTML: Lenguaje de etiquetas de hipertexto'
+    subtitle: Hipertexto
+    text: >+
+      <div style="text-align: left">Hace referencia a los enlaces que conectan
+      páginas web entre sí, ya sea dentro de un único sitio web o entre sitios
+      web. Los enlaces son un aspecto fundamental de la Web. Al subir contenido
+      a Internet y vincularlo a las páginas creadas por otras personas, te
+      conviertes en un participante activo en la «World Wide Web» (Red
+      Informática Mundial).</div>
+
+
+
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: TextSection
     colors: colors-f
     variant: variant-a
