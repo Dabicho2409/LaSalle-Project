@@ -67,7 +67,7 @@ sections:
       elementId: ''
   - type: MediaGallerySection
     title: HTML
-    subtitle: This is the subtitle
+    subtitle: ''
     images:
       - type: ImageBlock
         url: /images/imagen_2024-09-26_111149512.png
