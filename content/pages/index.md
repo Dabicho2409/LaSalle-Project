@@ -77,13 +77,19 @@ sections:
     variant: variant-a
     title: 'HTML: Lenguaje de etiquetas de hipertexto'
     subtitle: Hipertexto
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      ```
+
+      Hace referencia a los enlaces que conectan páginas web entre sí, ya sea
+      dentro de un único sitio web o entre sitios web. Los enlaces son un
+      aspecto fundamental de la Web. Al subir contenido a Internet y vincularlo
+      a las páginas creadas por otras personas, te conviertes en un participante
+      activo en la «World Wide Web» (Red Informática Mundial).
+
+      ```
+
+
+
     elementId: ''
     styles:
       self:
