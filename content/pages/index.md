@@ -109,16 +109,6 @@ sections:
       <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>,
       <ul>, <ol>, <li> y muchos otros.
 
-
-      ```
-
-
-      ```
-
-
-
-
-
       ```
 
     elementId: ''
