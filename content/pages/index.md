@@ -150,13 +150,38 @@ sections:
     colors: colors-f
     variant: variant-a
     title: ''
-    text: >
+    text: >+
+      ```
+
       Un elemento HTML se distingue de otro texto en un documento mediante
       "etiquetas", que consisten en el nombre del elemento rodeado por "<" y
       ">". El nombre de un elemento dentro de una etiqueta no distingue entre
       mayúsculas y minúsculas. Es decir, se puede escribir en mayúsculas,
       minúsculas o una mezcla. Por ejemplo, la etiqueta <title> se puede
       escribir como <Title>, <TITLE> o de cualquier otra forma.
+
+
+      Etiquetas iniciales o de raíz:
+
+
+      Doctype:
+
+      <!DOCTYPE html> Indica al navegador que el documento está basado en el
+      estándar HTML5
+
+
+      Html:
+
+      <html> </html> Representa la raíz de un documento HTML. Todos los demás
+      elementos de la estructura HTML deben ser recogidos dentro de estas
+      etiquetas.
+
+      ```
+
+
+
+
+
     elementId: ''
     styles:
       self:
