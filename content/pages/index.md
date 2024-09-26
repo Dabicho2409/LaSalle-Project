@@ -140,6 +140,7 @@ sections:
           - ml-5
           - mb-5
           - mr-5
+        borderRadius: xx-small
       title:
         textAlign: left
       subtitle:
