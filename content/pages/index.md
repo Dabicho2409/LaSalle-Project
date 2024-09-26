@@ -130,7 +130,7 @@ sections:
         width: narrow
         padding:
           - pt-28
-          - pb-28
+          - pb-2
           - pl-28
           - pr-28
         justifyContent: flex-start
