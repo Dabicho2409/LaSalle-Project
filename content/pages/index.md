@@ -99,7 +99,7 @@ sections:
     colors: colors-f
     variant: variant-b
     title: ''
-    text: >+
+    text: >
       ```
 
       HTML utiliza "marcas" para etiquetar texto, imágenes y otro contenido para
@@ -110,7 +110,6 @@ sections:
       <ul>, <ol>, <li> y muchos otros.
 
       ```
-
     elementId: ''
     styles:
       self:
