@@ -101,14 +101,12 @@ sections:
     title: ''
     subtitle: ''
     text: >+
-      ```
-
-      HTML utiliza "marcas" para etiquetar texto, imágenes y otro contenido para
-      mostrarlo en un navegador Web. Las  marcas HTML incluyen "elementos"
-      especiales como <head>, <title>, <body>, <header>, <footer>, <article>,
-      <section>, <p>, <div>, <span>, <img>, <aside>, <audio>, <canvas>,
-      <datalist>, <details>, <embed>, <nav>, <output>, <progress>, <video>,
-      <ul>, <ol>, <li> y muchos otros.
+      <div style="text-align: center">HTML utiliza "marcas" para etiquetar
+      texto, imágenes y otro contenido para mostrarlo en un navegador Web. Las 
+      marcas HTML incluyen "elementos" especiales como <head>, <title>, <body>,
+      <header>, <footer>, <article>, <section>, <p>, <div>, <span>, <img>,
+      <aside>, <audio>, <canvas>, <datalist>, <details>, <embed>, <nav>,
+      <output>, <progress>, <video>, <ul>, <ol>, <li> y muchos otros.
 
 
       Un elemento HTML se distingue de otro texto en un documento mediante
@@ -118,13 +116,7 @@ sections:
       minúsculas o una mezcla. Por ejemplo, la etiqueta <title> se puede
       escribir como <Title>, <TITLE> o de cualquier otra forma.
 
-
-      ```
-
-
-
-
-
+      </div>
 
     elementId: ''
     styles:
