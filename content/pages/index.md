@@ -66,7 +66,7 @@ sections:
       caption: Caption of the image
       elementId: ''
   - type: TextSection
-    colors: colors-d
+    colors: colors-b
     variant: variant-a
     title: 'HTML: Lenguaje de etiquetas de hipertexto'
     subtitle: Hipertexto
