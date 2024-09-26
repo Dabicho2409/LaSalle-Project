@@ -133,7 +133,7 @@ sections:
           - pb-2
           - pl-2
           - pr-2
-        justifyContent: flex-start
+        justifyContent: center
         borderWidth: 0
         margin:
           - mt-5
