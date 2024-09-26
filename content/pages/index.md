@@ -126,7 +126,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-b
-    title: 'HTML: Lenguaje de etiquetas de hipertexto'
+    title: ''
     subtitle: Hipertexto
     text: |+
       <div style="text-align: left">*   Etiquetas iniciales o de raíz:
