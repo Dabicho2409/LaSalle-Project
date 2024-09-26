@@ -59,6 +59,12 @@ sections:
       la estructura del contenido web. Además de HTML, generalmente se utilizan
       otras tecnologías para describir la apariencia/presentación de una página
       web (CSS) o la funcionalidad/comportamiento (JavaScript).
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - type: DividerSection
     title: Divider
     elementId: ''
