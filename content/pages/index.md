@@ -136,10 +136,10 @@ sections:
         justifyContent: center
         borderWidth: 0
         margin:
-          - mt-5
-          - ml-1
-          - mb-5
-          - mr-5
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
         borderRadius: xx-small
       title:
         textAlign: left
